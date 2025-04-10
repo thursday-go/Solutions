@@ -1,2 +1,2 @@
 # Solutions
-Solutions to leetcode problems
+This repository is a place for Thursday Go members to host their solutions to practice problems.
